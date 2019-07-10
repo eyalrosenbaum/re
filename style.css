@@ -1,0 +1,14 @@
+.cell{
+  border: 1px solid black;
+  display: inline-block;
+}
+#table{
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+}
+.row{
+  display: flex;
+  justify-content: center;
+}
